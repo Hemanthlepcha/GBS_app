@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462078539462",
+    "project_id": "gbs-login-register",
+    "storage_bucket": "gbs-login-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462078539462:android:fc4c9520db0c19e68289c7",
+        "android_client_info": {
+          "package_name": "com.example.gbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462078539462-ushcm8n89mqeglkcef0ar0vhkigcfide.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG4--7acfj36YK6ff-byFtR-2t0gQxOOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462078539462-ushcm8n89mqeglkcef0ar0vhkigcfide.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

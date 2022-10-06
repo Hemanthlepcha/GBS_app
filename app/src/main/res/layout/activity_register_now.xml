@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#D2C4C4"
+    android:background="#040303"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".RegisterNow">
@@ -38,7 +38,8 @@
       android:maxLines="1"
       android:padding="20dp"
       android:paddingStart="20dp"
-      android:paddingEnd="0dp"></EditText>
+      android:paddingEnd="0dp"
+      android:textColor="#F1EAEA"></EditText>
 
   <EditText
       android:id="@+id/email"
@@ -78,7 +79,8 @@
       android:maxLines="1"
       android:padding="20dp"
       android:paddingStart="20dp"
-      android:paddingEnd="0dp"></EditText>
+      android:paddingEnd="0dp"
+      android:textColorHint="#F1EAEA"></EditText>
 
   <Spinner
       android:id="@+id/choose"
